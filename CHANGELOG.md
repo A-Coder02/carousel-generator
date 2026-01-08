@@ -1,0 +1,2 @@
+ADDED
+- Carousel Generator Component
